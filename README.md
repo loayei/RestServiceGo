@@ -8,8 +8,8 @@
 - PUT an existing part
 - DELETE an existing part
 
-# POSTMAN used for testing.
-# PORT: 6969
+POSTMAN used for testing.
+PORT: 6969
 
 ## Instructions:
 Clone the repo and run `go build` to build the binary.

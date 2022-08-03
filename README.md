@@ -15,3 +15,13 @@ PORT: 6969
 Clone the repo and run `go build` to build the binary.
 Run `./autoparts` to start the server.
 Use POSTMAN to test the API.
+
+## Format:
+`
+{
+    "manufacturer": "BMW",
+    "name": "Spark Plug",
+    "price": 13.99,
+    "part_number": "A344BC"
+}
+`

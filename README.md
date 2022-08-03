@@ -13,7 +13,7 @@ PORT: 6969
 
 ## Instructions:
 Clone the repo and run `go build` to build the binary.
-Run `./autoparts` to start the server.
+Run `./AUTO_PARTS` to start the server.
 Use POSTMAN to test the API.
 
 ## Format:

@@ -1,4 +1,4 @@
-module REST_API_NEW
+module AUTO_PARTS
 
 go 1.19
 

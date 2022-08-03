@@ -8,7 +8,7 @@
 - PUT an existing part
 - DELETE an existing part
 
-POSTMAN used for testing.
+POSTMAN used for testing using 
 PORT: 6969
 
 ## Instructions:
